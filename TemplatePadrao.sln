@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplatePadrao.Api", "src\T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePadrao.Core", "src\TemplatePadrao.Core\TemplatePadrao.Core.csproj", "{FB0D36F1-884D-4390-8130-71303A142341}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateDomain.Domain", "src\TemplateDomain.Domain\TemplateDomain.Domain.csproj", "{AFCF9AC2-30B1-468E-B3CD-080686C84C94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePadrao.Domain", "src\TemplatePadrao.Domain\TemplatePadrao.Domain.csproj", "{AFCF9AC2-30B1-468E-B3CD-080686C84C94}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePadrao.Infra", "src\TemplatePadrao.Infra\TemplatePadrao.Infra.csproj", "{411F0F81-DAE0-4FF0-9FA2-01065558265F}"
 EndProject
